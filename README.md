@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <a href="https://github.com/enehry/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enehry&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 
 
