@@ -1,5 +1,5 @@
 <a href="https://github.com/enehry/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enehry&theme=github-dark-blue)](https://git.io/streak-stats)" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enehry&theme=github-dark-blue" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enehry&theme=github-dark-blue)](https://git.io/streak-stats)
