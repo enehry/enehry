@@ -1,4 +1,4 @@
-<a href="https://github.com/enehry/github-readme-stats">
+<a style="width:100%" href="https://github.com/enehry/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enehry&theme=github-dark-blue" />
 </a>
 <br/>
