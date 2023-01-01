@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enehry&bg_color=0e0e0e&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enehry&theme=github-dark-blue"/>
 <br/>
  
 </details>
