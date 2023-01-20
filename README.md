@@ -8,7 +8,6 @@
 - 👨‍🎓 Currently 4th yr Student at The University of Rizal System
 - 💬 Ask me aanything except money🤑🤑
 - 📫 How to reach me **enehry@gmail.com**
-- 
 
 
 <!-- <h3 align="left">Connect with me:</h3>
