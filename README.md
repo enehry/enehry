@@ -1,4 +1,4 @@
-<h3 align="center">Hello welcome to my github profile👋, I'm Nehry Dedoro, a typical average full stack developer. I build application for my career, for fun and for passion.</h3>
+<h3 align="center">Hello welcome to my github profile👋, I'm Nehry Dedoro, a typical full stack developer. I build application for my career, for fun and for passion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enehry&label=Profile%20views&color=0e75b6&style=flat" alt="enehry" /> </p>
 
