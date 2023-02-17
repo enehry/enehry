@@ -40,11 +40,27 @@
 <img src="https://astro.build/assets/press/logomark-dark.svg" alt="astro" width="40" height="40"/>
 </a>
 <!-- angualr -->
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+</a>
 <!-- flutter -->
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+</a>
 <!-- express -->
+<a href="https://express.com" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+</a>
 <!-- node -->
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+</a>
 <!-- laravel -->
+<a href="https://laravel.com" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+</a>
 <!-- asp -->
+
 <!-- typescript -->
 <!-- javascript -->
 <!-- php -->
