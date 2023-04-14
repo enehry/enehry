@@ -1,5 +1,5 @@
 <h3 align="center">Hello welcome to my github profile👋, I'm Nehry Dedoro, a typical full stack developer. I build application for my career, for fun and for my passion.</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enehry&label=Profile%20views&color=0e75b6&style=flat" alt="enehry" /> </p>
 
 <h3>🧐 Some Things About Me</h3>
