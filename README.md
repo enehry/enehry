@@ -4,8 +4,8 @@
 
 <h3>🧐 Some Things About Me</h3>
 
-- 💻 I'm a freelancer.
-- 👨‍🎓 Currently 4th yr Student at The University of Rizal System
+- 💻 I'm a Full Stack Web Developer
+- 👨‍🎓 Graduated at University of Rizal System
 - 💬 Ask me aanything except money🤑🤑
 - 📫 How to reach me **enehry@gmail.com**
 
