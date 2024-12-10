@@ -1,13 +1,13 @@
-<h3 align="center">Hello welcome to my github profile👋, I'm Nehry Dedoro, a typical full stack developer. I build application for my career, for fun and for my passion.</h3>
+<h3 align="center">Hello 👋, I'm Nehry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enehry&label=Profile%20views&color=0e75b6&style=flat" alt="enehry" /> </p>
 
 <h3>🧐 Some Things About Me</h3>
 
-- 💻 I'm a Full Stack Web Developer
-- 👨‍🎓 Graduated at University of Rizal System
+- 💻 I'm a Information System Analyst and a Full Stack Developer
+- 👨‍🎓 BSIT Grad
 - 💬 Ask me aanything except money🤑🤑
-- 📫 How to reach me **enehry@gmail.com**
+- 📫 Just email me @**enehry@gmail.com**
 
 
 <!-- <h3 align="left">Connect with me:</h3>
